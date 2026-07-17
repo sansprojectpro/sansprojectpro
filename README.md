@@ -1,57 +1,49 @@
-<h1 align="center">Halo, saya sansprojectpro! 👋</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sansprojectpro&label=Profile%20Views&color=0e75b6&style=flat" alt="Asen" />
-</p>
-
-<p align="center">
-  <b>Web Developer | Android Enthusiast | Anime & Manga Lover</b>
-</p>
-
----
-
-### 🛠 Tech Stack & Tools
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=js,html,css,wordpress" /><br>
-      <sub><b>Web Dev</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=androidstudio,java" /><br>
-      <sub><b>Mobile</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=excel,googlesheets" /><br>
-      <sub><b>Automation</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Tentang Saya
-*   💻 Saya fokus pada pengembangan aplikasi Android menggunakan platform **No-Code** dan kustomisasi web.
-*   🌐 Mengelola proyek dan infrastruktur di [animesans.com](https://animesans.com).
-*   🎨 Suka bereksperimen dengan desain antarmuka, tipografi, dan otomasi berbasis JavaScript.
-*   📈 Tertarik pada analisis data, SEO, dan sistem manajemen informasi.
-
----
-
-### 📊 Statistik GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sansprojectpro&show_icons=true&theme=radical&hide_border=true" alt="sansprojectpro Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansprojectpro&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+
+# ⚡ WELCOME TO SANSPROJECTPRO
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=DEVELOPER+%7C+CREATOR+%7C+ENGINEER;Building+the+Future+with+Code;Anime+%26+Tech+Enthusiast)](https://git.io/typing-svg)
+
+---
+
+### 🌐 CURRENT MISSION
+**"Transforming ideas into functional digital experiences."**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sansprojectpro&show_icons=true&theme=tokyonight&hide_border=true&border_radius=0&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sansprojectpro&layout=compact&theme=tokyonight&hide_border=true&border_radius=0)
+
 </div>
 
 ---
 
-### ☕ Mari Berkolaborasi!
-Saya selalu terbuka untuk berdiskusi tentang proyek pengembangan aplikasi, optimasi situs web, atau sekadar berbagi rekomendasi anime/manhwa terbaru.
+### 🛠 TECH ARMORY
+*Tumpukan teknologi yang saya gunakan untuk mengeksekusi proyek.*
 
-*   🌐 Kunjungi karya saya: [animesans.com](https://animesans.com)
+| Category | Tools |
+| :--- | :--- |
+| **Web Dev** | `JavaScript` `HTML5` `CSS3` `WordPress` `SEO` |
+| **Mobile** | `Kodular` `UI/UX Design` |
+| **Automation** | `Google Apps Script` `Excel Macros` `JS Scripts` |
+| **Infrastructure** | `Cloudflare` `Custom Domain Management` |
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+cool+things+with+code;Anime+enthusiast+and+Developer" alt="Typing" />
-</p>
+---
+
+### 🚀 PROJECT HIGHLIGHTS
+*   **[animesans.com](https://animesans.com)**: Platform pusat untuk konten anime & manga.
+*   **Custom Android Apps**: Eksplorasi pengembangan aplikasi tanpa kode (No-Code) dengan logika visual.
+*   **Web Automation**: Implementasi script khusus untuk efisiensi alur kerja.
+
+---
+
+<div align="center">
+
+### ⚡ LET'S CONNECT
+
+[![Website](https://img.shields.io/badge/Website-animesans.com-blue?style=for-the-badge&logo=google-chrome)](https://animesans.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sansprojectpro-black?style=for-the-badge&logo=github)](https://github.com/sansprojectpro)
+
+*Always learning, always building.*
+
+<img src="https://komarev.com/ghpvc/?username=sansprojectpro&label=VISITORS&color=00FF9D&style=plastic" alt="sansprojectpro" />
+
+</div>
