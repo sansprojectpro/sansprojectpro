@@ -1,31 +1,38 @@
 <div align="center">
 
-# ⚜️ SANS PROJECT ⚜️
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=SansProjectPro&fontSize=55&fontColor=ffffff&color=0:111111,100:C9A227"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=34&pause=1200&color=C9A227&center=true&vCenter=true&width=900&lines=Welcome+To+SansProjectPro;Frontend+Developer;AnimeSans+Creator;Building+Beautiful+Web+Experiences" />
+# ⚜️ SansProjectPro
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,100:c9a227&text=SansProjectPro&fontColor=ffffff&fontSize=55&fontAlignY=40"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=C9A227&center=true&vCenter=true&width=700&lines=Frontend+Developer;AnimeSans+Creator;JavaScript+Developer;Always+Learning..." />
 
 </div>
 
 ---
 
-# ⚜️ About Me
+# 👋 About Me
 
 ```yaml
-Name      : SansProjectPro
-Role      : Frontend Developer
-Project   : AnimeSans
-Language  : HTML | CSS | JavaScript
-Learning  : Firebase
-Focus     : Modern Website & Anime Platform
+Name       : SansProjectPro
+Role       : Frontend Developer
+Website    : AnimeSans
+Language   : HTML CSS JavaScript
+Learning   : Firebase
+Location   : Indonesia
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Current Project
+
+- 🌸 AnimeSans
+- 🎵 SansMusic
+- 📖 Comic Reader
+- 💻 Modern Website
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -35,19 +42,19 @@ Focus     : Modern Website & Anime Platform
 
 ---
 
-# 📊 Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sansprojectpro&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sansprojectpro&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansprojectpro&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansprojectpro&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -57,7 +64,7 @@ Focus     : Modern Website & Anime Platform
 
 ---
 
-# 📈 Activity
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -67,32 +74,44 @@ Focus     : Modern Website & Anime Platform
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🌸 AnimeSans | Website baca komik dan anime |
-| 🎵 SansMusic | Streaming music website |
-| 📚 Comic Reader | Read manga online |
-| 🧪 Experimental | Project eksperimen |
-
----
-
-# 🏆 Achievement
+# 🏆 GitHub Trophy
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sansprojectpro&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sansprojectpro&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
 
 </p>
 
 ---
 
-# 🌐 Visitor
+# 🌟 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌸 AnimeSans | Website baca komik & anime |
+| 🎵 SansMusic | Website streaming music |
+| 📚 Comic Reader | Read comic online |
+| 🧪 Testing | Experimental Project |
+
+---
+
+# 🌐 Connect
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sansprojectpro&style=for-the-badge&color=gold"/>
+<a href="https://github.com/sansprojectpro">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sansprojectpro&label=PROFILE+VIEWS&style=for-the-badge&color=blue"/>
 
 </p>
 
@@ -100,8 +119,8 @@ Focus     : Modern Website & Anime Platform
 
 <div align="center">
 
-## ⭐ "Code. Create. Inspire."
+## ⭐ Thanks For Visiting ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:c9a227,100:0d0d0d"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:C9A227,100:111111"/>
 
 </div>
