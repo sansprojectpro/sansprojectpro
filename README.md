@@ -1,17 +1,13 @@
+<div align="center">
+
 # SansProjectPro
 
-### 🚀 Building AnimeSans
+Frontend Developer
 
-🛠 HTML • CSS • JavaScript • Firebase
+Building beautiful web experiences.
 
----
+<br>
 
-### Current Focus
+<img src="https://skillicons.dev/icons?i=html,css,js,github"/>
 
-- 🌸 AnimeSans
-- 📚 Learn Firebase
-- 🎨 Better UI
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=sansprojectpro&show_icons=true&theme=tokyonight&hide_border=true"/>
+</div>
